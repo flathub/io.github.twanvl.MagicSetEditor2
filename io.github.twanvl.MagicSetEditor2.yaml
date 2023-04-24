@@ -53,7 +53,7 @@ modules:
     sources:
       - type: git
         url: https://github.com/twanvl/MagicSetEditor2
-        tag: v2.1.2
+        commit: f9d9356d51f28210ccf0c0dda508502f222e1def
       - type: file
         path: io.github.twanvl.MagicSetEditor2.desktop
       - type: file
