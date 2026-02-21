@@ -5,3 +5,4 @@ Name=MagicSetEditor
 Comment=A program used to make custom cards
 Exec=magicseteditor
 Icon=io.github.twanvl.MagicSetEditor2
+Categories=Game
