@@ -1,6 +1,6 @@
 app-id: io.github.twanvl.MagicSetEditor2
 runtime: org.freedesktop.Platform
-runtime-version: "25.08"
+runtime-version: "26.08"
 sdk: org.freedesktop.Sdk
 command: magicseteditor
 finish-args:
@@ -32,6 +32,7 @@ modules:
       - type: git
         url: https://github.com/wxWidgets/wxWidgets
         tag: v3.0.5.1
+        commit: 2740737b40d30817b474e30ff76e43f0903c2e97
 
   - name: boost
     buildsystem: simple
